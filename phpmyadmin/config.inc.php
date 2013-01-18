@@ -28,7 +28,7 @@ $i++;
 $cfg['Servers'][$i]['host'] = 'tunnel.pagodabox.com';
 
 // $cfg['Servers'][$i]['user'] = 'glenn';
-// $cfg['Servers'][$i]['password'] = 'Aw2piWqD';
+$cfg['Servers'][$i]['password'] = 'Aw2piWqD';
 // $cfg['Servers'][$i]['auth_type'] = 'config';
 
 // /* Authentication type */

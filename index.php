@@ -6,5 +6,6 @@
 </head>
 <body>
 This is the index page of the athletes project.
+<?php phpinfo(); ?>
 </body>
 </html>
